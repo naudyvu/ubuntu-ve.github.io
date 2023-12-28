@@ -1,38 +1,38 @@
-# ubuntu-uk.github.io
+# ubuntu-ve.github.io
 
-The new Website of Ubuntu UK Community. Built with [Hugo](https://gohugo.io) and vanillaframework.io
+Este nuevo sitio, es contruido con [Hugo](https://gohugo.io) y vanillaframework.io
 
-## Ubuntu-UK LoCo Website repo
+## Ubuntu-Ve LoCo Website repo
 
-This repo contains the content for the Ubuntu UK Local Community Team website. The goal is to have the content here hosted at https://ubuntu-uk.org/. Currently the site is at https://ubuntu-uk.github.io/
+Este es el repositorio del contenido de la nueva web de la comunidad. Este estara mmontado en el link  hosted at https://ubuntu-ve.org/ y https://ubuntu-ve.github.io/
 
-## Get involved
+## Involucrate
 
-We welcome contributions to improve the site!
+## Eres bienvenido a contribuir, como puedas con lo que quieras y como puedas!!
 
-The site is built using [Hugo](https://gohugo.io/) and deployed with a [GitHub action](https://github.com/features/actions).
+Usamos [Hugo](https://gohugo.io/) y GitAction [GitHub action](https://github.com/features/actions).
 
 ### Install Hugo
 
 [Install](https://gohugo.io/installation/) Hugo using their documentation for [Linux](https://gohugo.io/installation/linux/), [Windows](https://gohugo.io/installation/windows/), [macOS](https://gohugo.io/installation/macos/), or [BSD](https://gohugo.io/installation/bsd/).
 
-You'll also need dart-sass-embedded, and vanilla framework.
+Necesitaras dart-sass-embedded, y vanilla framework.
 
 `sudo snap install dart-sass-embedded`
 
 `npm install vanilla-framework`
 
-### Get the code
+### Obten el codigo y contribuye
 
-Fork the repo, then clone it to your local workstation.
+forkea el repo, y podras correrlo en tu workstation o workspace local
 
 ### Prototype
 
-Start hugo in the directory you cloned to.
+Inicie hugo en el directorio donde esta clonado el codigo con el comando:
 
 `hugo serve`
 
-You'll see output similar to the following:
+Esta deberia mostrar algo asi en la salida:
 
 ```
 Watching for changes in /home/alan/Source/ubuntu-uk/ubuntu-uk.github.io/{archetypes,content,package.json,static,themes}
@@ -61,7 +61,7 @@ Press Ctrl+C to stop
 
 ```
 
-### Visit site
+### Visite el site
 
 Visit [localhost:1313](https://localhost:1313) to view the site
 
@@ -71,11 +71,11 @@ The Hugo documentation can be found at [gohugo.io/documentation/](https://gohugo
 
 ### Submit PR
 
-Push your changes to a pull request, where we can review and discuss the changes, prior to merging. 
+ Haga sus Push y envie sus cambios,un  pull request y ahi podemos revisar y discutir los cambios que ha enviado, antes de un merging. 
 
-## Code of Conduct
+## Codigo de Conducta
 
-Please respect the [Ubuntu Code of Conduct](https://ubuntu.com/community/ethos/code-of-conduct) when interacting with others in this repo. 
+Por favor leer [Ubuntu Code of Conduct](https://ubuntu.com/community/ethos/code-of-conduct) antes de interactuar con el codigo, por favor lea. 
 
 
 ## License
