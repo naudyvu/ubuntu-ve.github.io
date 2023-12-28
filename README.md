@@ -75,7 +75,7 @@ The Hugo documentation can be found at [gohugo.io/documentation/](https://gohugo
 
 ## Codigo de Conducta
 
-Por favor leer [Ubuntu Code of Conduct](https://ubuntu.com/community/ethos/code-of-conduct) antes de interactuar con el codigo, por favor lea. 
+Por favor leer [Ubuntu Code of Conduct](https://wiki.ubuntu.com/VenezuelaTeam/CodigoConducta) antes de interactuar con el codigo, por favor lea. 
 
 
 ## License
