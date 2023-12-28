@@ -35,8 +35,8 @@ Inicie hugo en el directorio donde esta clonado el codigo con el comando:
 Esta deberia mostrar algo asi en la salida:
 
 ```
-Watching for changes in /home/alan/Source/ubuntu-uk/ubuntu-uk.github.io/{archetypes,content,package.json,static,themes}
-Watching for config changes in /home/alan/Source/ubuntu-uk/ubuntu-uk.github.io/config.yaml, /home/alan/Source/ubuntu-uk/ubuntu-uk.github.io/go.mod
+Watching for changes in /home/cyph3r/Source/ubuntu-ve/ubuntu-ve.github.io/{archetypes,content,package.json,static,themes}
+Watching for config changes in /home/cyph3r/Source/ubuntu-ve/ubuntu-ve.github.io/config.yaml, /home/cypher/Source/ubuntu-ve/ubuntu-ve.github.io/go.mod
 Start building sites … 
 hugo v0.119.0-b84644c008e0dc2c4b67bd69cccf87a41a03937e linux/amd64 BuildDate=2023-09-24T15:20:17Z VendorInfo=gohugoio
 
@@ -80,3 +80,8 @@ Por favor leer [Ubuntu Code of Conduct](https://ubuntu.com/community/ethos/code-
 
 ## License
 MIT License (See `LICENSE`)
+
+## Este repositorio es original de la comunidad de https://github.com/ubuntu-uk/ubuntu-uk.github.io
+* En la que nos proveen una plantilla a la comunidad , esto nos ayuda a tener mas control y una uniformidad entre todas las comunidades 
+* Nos permite optimimzar el tiempo de desarrollo en las web de las comunidades! 
+
